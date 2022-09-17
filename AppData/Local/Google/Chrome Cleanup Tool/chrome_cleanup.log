@@ -1,0 +1,122 @@
+[0223/210937.075:INFO:scoped_logging.cc(73)] Starting logs for version: 88.253.200
+[0223/210938.904:INFO:crashpad_crash_reporter.cc(92)] Crash handler launched and ready.
+[0223/210938.909:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0223/210939.901:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0223/210940.689:INFO:chrome_cleaner_main.cc(532)] Command line arguments: "%TEMP%\chromecleaner_0_340_1290120913\5313305e-c975-4025-969b-08ea1500e1b0.exe" --chrome-channel=4 --chrome-exe-path="CSIDL_PROGRAM_FILES\google\chrome\application\chrome.exe" --chrome-prompt=3 --chrome-read-handle=960 --chrome-system-install --chrome-version=87.0.4280.141 --chrome-write-handle=1824 --enable-crash-reporting --engine=2 --execution-mode=1 --srt-field-trial-group-name=newcleaneruiexperiment --uma-user
+[0223/210940.758:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_5024_AHDNRXQHYAWSNEZU" --sandboxed-process-id=3 --init-done-notifier=568 --sandbox-mojo-pipe-token=12406623098386086606 --mojo-platform-channel-handle=544
+[0223/210941.784:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_5024_AHDNRXQHYAWSNEZU" --sandboxed-process-id=2 --init-done-notifier=668 --sandbox-mojo-pipe-token=16219919939601084415 --mojo-platform-channel-handle=596 --engine=2
+[0223/210947.193:WARNING:force_installed_extension_scanner_impl.cc(32)] No UwE matchers set
+[0223/210947.312:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0223/210947.314:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0223/210947.685:ERROR:scanner_sandbox_interface.cc(91)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/210947.715:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211112.271:ERROR:file_path_sanitization.cc(324)] IsFilePresentLocally failed to get attributes: CSIDL_SYSTEM\igdumd32.dll: The system cannot find the file specified. (0x2)
+[0223/211122.450:ERROR:scanner_sandbox_interface.cc(192)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211122.460:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211139.451:ERROR:scanner_sandbox_interface.cc(192)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211139.452:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211139.452:ERROR:scanner_sandbox_interface.cc(192)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211139.453:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0223/211143.281:ERROR:scanner_sandbox_interface.cc(554)] Failed to open registry key: 0x5
+[0223/211143.282:ERROR:scanner_sandbox_interface.cc(554)] Failed to open registry key: 0x5
+[0223/211143.283:ERROR:scanner_sandbox_interface.cc(554)] Failed to open registry key: 0x5
+[0223/211143.283:ERROR:scanner_sandbox_interface.cc(554)] Failed to open registry key: 0x5
+[0223/211144.538:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0223/211144.538:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0223/211315.404:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/211315.454:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/211316.365:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/211316.365:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/211316.370:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/211316.370:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0223/212447.649:ERROR:shutdown_watchdog.cc(24)] Shutdown watchdog triggered, exiting with code 34
+[0223/212447.694:ERROR:early_exit.cc(16)] Early exit with code 34
+[0313/112427.257:INFO:scoped_logging.cc(73)] Starting logs for version: 89.257.200
+[0313/112427.475:INFO:crashpad_crash_reporter.cc(92)] Crash handler launched and ready.
+[0313/112427.475:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0313/112427.491:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0313/112427.553:INFO:chrome_cleaner_main.cc(532)] Command line arguments: "%TEMP%\chromecleaner_0_3488_456237830\4915104a-fef0-4e14-aa02-a57b9e8853a9.exe" --chrome-channel=4 --chrome-exe-path="CSIDL_PROGRAM_FILES\google\chrome\application\chrome.exe" --chrome-prompt=3 --chrome-read-handle=2096 --chrome-system-install --chrome-version=88.0.4324.190 --chrome-write-handle=4148 --enable-crash-reporting --engine=2 --execution-mode=1 --srt-field-trial-group-name=newcleaneruiexperiment --uma-user
+[0313/112427.631:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_1624_PMBDYOVHLFXWWPWV" --sandboxed-process-id=3 --init-done-notifier=572 --sandbox-mojo-pipe-token=3898062212337153332 --mojo-platform-channel-handle=544
+[0313/112428.099:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_1624_PMBDYOVHLFXWWPWV" --sandboxed-process-id=2 --init-done-notifier=672 --sandbox-mojo-pipe-token=17464033042982773283 --mojo-platform-channel-handle=600 --engine=2
+[0313/112429.815:WARNING:force_installed_extension_scanner_impl.cc(32)] No UwE matchers set
+[0313/112429.846:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0313/112429.846:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0313/112429.878:ERROR:scanner_sandbox_interface.cc(91)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112429.878:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112516.062:ERROR:scanner_sandbox_interface.cc(192)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112516.062:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112516.280:ERROR:scanner_sandbox_interface.cc(192)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112516.343:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0313/112521.693:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0313/112521.693:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0313/112521.693:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0313/112521.693:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0313/112523.409:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0313/112523.409:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0313/112607.466:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/112607.590:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/112607.949:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/112607.949:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/112607.965:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/112607.965:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0313/113407.296:INFO:logging_conversion.cc(30)] Detected Linkury
+[0313/113407.546:INFO:logging_conversion.cc(30)] Detected Socelars
+[0313/113407.796:INFO:logging_conversion.cc(38)] Engine Scan exited with status code 0x0
+[0313/113407.796:INFO:main_controller.cc(399)] Scanning took '577' seconds.
+[0313/113412.772:INFO:main_controller.cc(61)] User time: '42' seconds.
+[0313/113412.822:INFO:main_controller.cc(62)] Kernel time: '33' seconds.
+[0313/113412.883:INFO:main_controller.cc(66)] Peak memory used: '8128' KB.
+[0313/113412.883:INFO:main_controller.cc(70)] IO counters: ReadOperationCount = '630938', WriteOperationCount = '630330', OtherOperationCount = '592242', ReadTransferCount = '174829362', WriteTransferCount = '80603855', OtherTransferCount = '751630'
+[0313/113413.024:INFO:chrome_cleaner_main.cc(355)] Exiting with code: 48
+[0313/113413.164:WARNING:cleaner_logging_service.cc(345)] At least the last 37 log lines have not been uploaded to Safe Browsing.
+[0414/091057.175:INFO:scoped_logging.cc(73)] Starting logs for version: 89.258.200
+[0414/091057.379:INFO:crashpad_crash_reporter.cc(92)] Crash handler launched and ready.
+[0414/091057.385:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0414/091057.385:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0414/091057.449:INFO:chrome_cleaner_main.cc(532)] Command line arguments: "%TEMP%\chromecleaner_0_3004_1253387113\8a6f0926-40c0-4009-a53b-8af680c91537.exe" --chrome-channel=4 --chrome-exe-path="CSIDL_PROGRAM_FILES\google\chrome\application\chrome.exe" --chrome-prompt=3 --chrome-read-handle=3160 --chrome-system-install --chrome-version=89.0.4389.90 --chrome-write-handle=3056 --enable-crash-reporting --engine=2 --execution-mode=1 --srt-field-trial-group-name=newcleaneruiexperiment --uma-user
+[0414/091057.485:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_1016_OPXSEUMQMJEAGAYO" --sandboxed-process-id=3 --init-done-notifier=572 --sandbox-mojo-pipe-token=8658784361229848871 --mojo-platform-channel-handle=544
+[0414/091057.864:INFO:sandbox.cc(275)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_1016_OPXSEUMQMJEAGAYO" --sandboxed-process-id=2 --init-done-notifier=672 --sandbox-mojo-pipe-token=10703768503016746461 --mojo-platform-channel-handle=600 --engine=2
+[0414/091059.766:WARNING:force_installed_extension_scanner_impl.cc(32)] No UwE matchers set
+[0414/091059.768:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0414/091059.768:WARNING:extensions_util.cc(200)] Failed to read string registry value: 'software\policies\google\chrome\ExtensionSettings', error: '1'.
+[0414/091059.805:ERROR:scanner_sandbox_interface.cc(91)] Failed to open process: The parameter is incorrect. (0x57)
+[0414/091059.806:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0414/091141.531:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0414/091141.532:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0414/091141.532:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0414/091141.533:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0414/091142.356:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0414/091142.357:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0414/091228.722:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/091228.723:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/091229.553:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/091229.553:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/091229.558:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/091229.558:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0414/092601.071:ERROR:shutdown_watchdog.cc(24)] Shutdown watchdog triggered, exiting with code 34
+[0414/092601.290:ERROR:early_exit.cc(16)] Early exit with code 34
+[0902/145014.570:INFO:scoped_logging.cc(73)] Starting logs for version: 104.288.200
+[0902/145014.738:INFO:crashpad_crash_reporter.cc(92)] Crash handler launched and ready.
+[0902/145014.751:INFO:crashpad_crash_client.cc(254)] Found 0 completed crash reports
+[0902/145014.879:INFO:crashpad_crash_client.cc(273)] Found 0 pending crash reports
+[0902/145014.963:INFO:chrome_cleaner_main.cc(525)] Command line arguments: "%TEMP%\chromecleaner_0_3552_284135540\0a3d3dda-7f35-489f-8550-d6ea56764ac6.exe" --chrome-channel=4 --chrome-exe-path="CSIDL_PROGRAM_FILES\google\chrome\application\chrome.exe" --chrome-prompt=3 --chrome-read-handle=2816 --chrome-system-install --chrome-version=104.0.5112.102 --chrome-write-handle=3460 --enable-crash-reporting --engine=2 --execution-mode=1 --reset-shortcuts --uma-user
+[0902/145015.168:INFO:sandbox.cc(273)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_2564_AXEAIXYTECDSQRDS" --sandboxed-process-id=3 --init-done-notifier=568 --sandbox-mojo-pipe-token=7768694786490378711 --mojo-platform-channel-handle=544
+[0902/145015.705:INFO:sandbox.cc(273)] Starting sandbox process with command line arguments: --enable-crash-reporting --execution-mode=1 --use-crash-handler-with-id="\\.\pipe\crashpad_2564_AXEAIXYTECDSQRDS" --sandboxed-process-id=2 --init-done-notifier=668 --sandbox-mojo-pipe-token=16666184855032972404 --mojo-platform-channel-handle=596 --engine=2
+[0902/145017.652:ERROR:scanner_sandbox_interface.cc(91)] Failed to open process: The parameter is incorrect. (0x57)
+[0902/145017.653:ERROR:scanner_sandbox_interface.cc(410)] Failed to open process: The parameter is incorrect. (0x57)
+[0902/145103.169:ERROR:file_path_sanitization.cc(323)] IsFilePresentLocally failed to get attributes: CSIDL_SYSTEM\{a0cb04a8-eb29-402b-adf2-be39891f1d62}: The system cannot find the file specified. (0x2)
+[0902/145103.409:ERROR:file_path_sanitization.cc(323)] IsFilePresentLocally failed to get attributes: CSIDL_SYSTEM\{2f5a9791-72cb-41a4-8b79-250a3e999078}: The system cannot find the file specified. (0x2)
+[0902/145110.418:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0902/145110.419:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-19\0
+[0902/145110.421:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0902/145110.422:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: S-1-5-20\0
+[0902/145112.793:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0902/145112.803:ERROR:scanner_sandbox_interface.cc(500)] Failed to open CSIDL_PROGRAM_FILES\xyudgiwb\gfmpqlgr.exe: The process cannot access the file because it is being used by another process. (0x20)
+[0902/145629.269:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/145629.332:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/145631.996:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/145631.996:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/145632.000:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/145632.001:ERROR:scanner_sandbox_interface.cc(616)] Call to NtOpenKey failed. Returned: -1073741790, path: Parameters\0
+[0902/150517.688:ERROR:shutdown_watchdog.cc(24)] Shutdown watchdog triggered, exiting with code 34
+[0902/150517.720:ERROR:early_exit.cc(16)] Early exit with code 34

@@ -1,0 +1,84 @@
+[0223/210940.930:INFO:scoped_logging.cc(73)] Starting logs for version: 88.253.200
+[0223/210941.489:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0223/210941.589:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0223/210941.644:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0223/210941.704:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0223/210941.946:INFO:scoped_logging.cc(73)] Starting logs for version: 88.253.200
+[0223/210941.996:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0223/210942.026:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0223/210942.026:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0223/210942.026:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0223/210942.076:INFO:engine_delegate_factory.cc(13)] Initializing the ESET engine delegate
+[0223/210942.126:INFO:libraries.cc(47)] Extracting em005_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210942.161:INFO:libraries.cc(47)] Extracting em004_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210942.786:INFO:libraries.cc(47)] Extracting em003_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210943.228:INFO:libraries.cc(47)] Extracting em002_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210943.373:INFO:libraries.cc(47)] Extracting em000_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210943.378:INFO:libraries.cc(47)] Extracting em001_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210943.383:INFO:libraries.cc(47)] Extracting edls_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_340_1290120913
+[0223/210945.806:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0223/210947.355:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0223/210947.630:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0313/112428.006:INFO:scoped_logging.cc(73)] Starting logs for version: 89.257.200
+[0313/112428.037:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0313/112428.037:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0313/112428.037:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0313/112428.037:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0313/112428.286:INFO:scoped_logging.cc(73)] Starting logs for version: 89.257.200
+[0313/112428.286:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0313/112428.286:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0313/112428.286:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0313/112428.286:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0313/112428.349:INFO:engine_delegate_factory.cc(13)] Initializing the ESET engine delegate
+[0313/112428.349:INFO:libraries.cc(47)] Extracting em005_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112428.349:INFO:libraries.cc(47)] Extracting em004_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112428.598:INFO:libraries.cc(47)] Extracting em003_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112429.456:INFO:libraries.cc(47)] Extracting em002_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112429.690:INFO:libraries.cc(47)] Extracting em000_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112429.690:INFO:libraries.cc(47)] Extracting em001_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112429.690:INFO:libraries.cc(47)] Extracting edls_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3488_456237830
+[0313/112429.800:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0313/112429.878:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0313/112429.878:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0414/091057.740:INFO:scoped_logging.cc(73)] Starting logs for version: 89.258.200
+[0414/091057.776:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0414/091057.780:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0414/091057.784:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0414/091057.784:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0414/091058.193:INFO:scoped_logging.cc(73)] Starting logs for version: 89.258.200
+[0414/091058.193:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0414/091058.197:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0414/091058.199:INFO:crashpad_crash_client.cc(255)] Found 0 completed crash reports
+[0414/091058.200:INFO:crashpad_crash_client.cc(274)] Found 0 pending crash reports
+[0414/091058.252:INFO:engine_delegate_factory.cc(13)] Initializing the ESET engine delegate
+[0414/091058.253:INFO:libraries.cc(47)] Extracting em005_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091058.259:INFO:libraries.cc(47)] Extracting em004_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091058.551:INFO:libraries.cc(47)] Extracting em003_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091058.660:INFO:libraries.cc(47)] Extracting em002_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091059.023:INFO:libraries.cc(47)] Extracting em000_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091059.036:INFO:libraries.cc(47)] Extracting em001_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091059.040:INFO:libraries.cc(47)] Extracting edls_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3004_1253387113
+[0414/091059.761:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0414/091059.802:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0414/091059.803:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0902/145015.604:INFO:scoped_logging.cc(73)] Starting logs for version: 104.288.200
+[0902/145015.636:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0902/145015.648:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0902/145015.650:INFO:crashpad_crash_client.cc(254)] Found 0 completed crash reports
+[0902/145015.651:INFO:crashpad_crash_client.cc(273)] Found 0 pending crash reports
+[0902/145016.045:INFO:scoped_logging.cc(73)] Starting logs for version: 104.288.200
+[0902/145016.047:INFO:crashpad_crash_reporter.cc(159)] Crash handler launched and ready.
+[0902/145016.051:WARNING:chrome_util.cc(43)] Can't get Chrome version information from flag: The chrome-version switch was not set.
+[0902/145016.085:INFO:crashpad_crash_client.cc(254)] Found 0 completed crash reports
+[0902/145016.085:INFO:crashpad_crash_client.cc(273)] Found 0 pending crash reports
+[0902/145016.137:INFO:engine_delegate_factory.cc(13)] Initializing the ESET engine delegate
+[0902/145016.139:INFO:libraries.cc(47)] Extracting em005_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145016.151:INFO:libraries.cc(47)] Extracting em004_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145016.524:INFO:libraries.cc(47)] Extracting em003_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145017.259:INFO:libraries.cc(47)] Extracting em002_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145017.350:INFO:libraries.cc(47)] Extracting em000_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145017.400:INFO:libraries.cc(47)] Extracting em001_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145017.405:INFO:libraries.cc(47)] Extracting edls_64.dll to c:\users\use\appdata\local\temp\chromecleaner_0_3552_284135540
+[0902/145017.610:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0902/145017.647:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten
+[0902/145017.648:WARNING:crash_keys.cc(39)] Crash key "stage" being overwritten

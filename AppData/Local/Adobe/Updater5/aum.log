@@ -1,0 +1,622 @@
+2/26/2019 1:24:16 PM: >>> Adobe Updater Log Begin >>>
+2/26/2019 1:24:16 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+2/26/2019 1:24:16 PM: cmdline option: -logLevel = 2
+2/26/2019 1:24:16 PM: Display Language requested = 
+2/26/2019 1:24:16 PM: No Startup mode - likely to be launched manually.
+2/26/2019 1:24:16 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2/26/2019 1:24:16 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+2/26/2019 1:24:16 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+2/26/2019 1:24:16 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+2/26/2019 1:24:16 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+2/26/2019 1:24:16 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+2/26/2019 1:24:18 PM: No manual/schedule workflow to process next
+2/26/2019 1:24:18 PM: <<< Adobe Updater Log End <<<
+
+
+2/26/2019 1:38:46 PM: >>> Adobe Updater Log Begin >>>
+2/26/2019 1:38:46 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+2/26/2019 1:38:46 PM: cmdline option: -logLevel = 2
+2/26/2019 1:38:46 PM: Display Language requested = 
+2/26/2019 1:38:46 PM: No Startup mode - likely to be launched manually.
+2/26/2019 1:38:46 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2/26/2019 1:38:46 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+2/26/2019 1:38:46 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+2/26/2019 1:38:46 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+2/26/2019 1:38:46 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+2/26/2019 1:38:46 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+2/26/2019 1:38:48 PM: No manual/schedule workflow to process next
+2/26/2019 1:38:48 PM: <<< Adobe Updater Log End <<<
+
+
+2/26/2019 1:39:53 PM: >>> Adobe Updater Log Begin >>>
+2/26/2019 1:39:53 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+2/26/2019 1:39:53 PM: cmdline option: -logLevel = 2
+2/26/2019 1:39:53 PM: Display Language requested = en_US
+2/26/2019 1:39:53 PM: New AUM launched for schedule update...
+2/26/2019 1:39:53 PM: Entering normal workflow...
+2/26/2019 1:39:53 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+3/5/2019 1:11:17 PM: >>> Adobe Updater Log Begin >>>
+3/5/2019 1:11:17 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+3/5/2019 1:11:17 PM: cmdline option: -logLevel = 2
+3/5/2019 1:11:17 PM: Display Language requested = 
+3/5/2019 1:11:17 PM: No Startup mode - likely to be launched manually.
+3/5/2019 1:11:17 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+3/5/2019 1:11:17 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+3/5/2019 1:11:17 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+3/5/2019 1:11:17 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+3/5/2019 1:11:17 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+3/5/2019 1:11:17 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+3/5/2019 1:11:19 PM: No manual/schedule workflow to process next
+3/5/2019 1:11:19 PM: <<< Adobe Updater Log End <<<
+
+
+3/5/2019 1:12:24 PM: >>> Adobe Updater Log Begin >>>
+3/5/2019 1:12:24 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+3/5/2019 1:12:24 PM: cmdline option: -logLevel = 2
+3/5/2019 1:12:24 PM: Display Language requested = en_US
+3/5/2019 1:12:24 PM: New AUM launched for schedule update...
+3/5/2019 1:12:24 PM: Entering normal workflow...
+3/5/2019 1:12:24 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+3/21/2019 7:34:08 PM: >>> Adobe Updater Log Begin >>>
+3/21/2019 7:34:08 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+3/21/2019 7:34:08 PM: cmdline option: -logLevel = 2
+3/21/2019 7:34:08 PM: Display Language requested = 
+3/21/2019 7:34:08 PM: No Startup mode - likely to be launched manually.
+3/21/2019 7:34:08 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+3/21/2019 7:34:08 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+3/21/2019 7:34:08 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+3/21/2019 7:34:08 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+3/21/2019 7:34:08 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+3/21/2019 7:34:08 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+3/21/2019 7:34:10 PM: No manual/schedule workflow to process next
+3/21/2019 7:34:10 PM: <<< Adobe Updater Log End <<<
+
+
+4/1/2019 9:30:43 AM: >>> Adobe Updater Log Begin >>>
+4/1/2019 9:30:43 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/1/2019 9:30:43 AM: cmdline option: -logLevel = 2
+4/1/2019 9:30:43 AM: Display Language requested = 
+4/1/2019 9:30:43 AM: No Startup mode - likely to be launched manually.
+4/1/2019 9:30:43 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/1/2019 9:30:43 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/1/2019 9:30:43 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/1/2019 9:30:43 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+4/1/2019 9:30:43 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+4/1/2019 9:30:43 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/1/2019 9:30:45 AM: No manual/schedule workflow to process next
+4/1/2019 9:30:45 AM: <<< Adobe Updater Log End <<<
+
+
+4/1/2019 9:31:50 AM: >>> Adobe Updater Log Begin >>>
+4/1/2019 9:31:50 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/1/2019 9:31:50 AM: cmdline option: -logLevel = 2
+4/1/2019 9:31:50 AM: Display Language requested = en_US
+4/1/2019 9:31:50 AM: New AUM launched for schedule update...
+4/1/2019 9:31:50 AM: Entering normal workflow...
+4/1/2019 9:31:50 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/8/2019 7:56:35 AM: >>> Adobe Updater Log Begin >>>
+4/8/2019 7:56:35 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/8/2019 7:56:35 AM: cmdline option: -logLevel = 2
+4/8/2019 7:56:35 AM: Display Language requested = 
+4/8/2019 7:56:35 AM: No Startup mode - likely to be launched manually.
+4/8/2019 7:56:35 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/8/2019 7:56:35 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/8/2019 7:56:35 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/8/2019 7:56:35 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+4/8/2019 7:56:35 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+4/8/2019 7:56:35 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/8/2019 7:56:37 AM: No manual/schedule workflow to process next
+4/8/2019 7:56:37 AM: <<< Adobe Updater Log End <<<
+
+
+4/8/2019 7:57:42 AM: >>> Adobe Updater Log Begin >>>
+4/8/2019 7:57:42 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/8/2019 7:57:42 AM: cmdline option: -logLevel = 2
+4/8/2019 7:57:42 AM: Display Language requested = en_US
+4/8/2019 7:57:42 AM: New AUM launched for schedule update...
+4/8/2019 7:57:42 AM: Entering normal workflow...
+4/8/2019 7:57:42 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/21/2019 1:13:57 PM: >>> Adobe Updater Log Begin >>>
+4/21/2019 1:13:57 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/21/2019 1:13:57 PM: cmdline option: -logLevel = 2
+4/21/2019 1:13:57 PM: Display Language requested = 
+4/21/2019 1:13:57 PM: No Startup mode - likely to be launched manually.
+4/21/2019 1:13:57 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/21/2019 1:13:57 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/21/2019 1:13:57 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/21/2019 1:13:57 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+4/21/2019 1:13:57 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+4/21/2019 1:13:57 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/21/2019 1:13:59 PM: No manual/schedule workflow to process next
+4/21/2019 1:13:59 PM: <<< Adobe Updater Log End <<<
+
+
+4/21/2019 1:15:04 PM: >>> Adobe Updater Log Begin >>>
+4/21/2019 1:15:04 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/21/2019 1:15:04 PM: cmdline option: -logLevel = 2
+4/21/2019 1:15:04 PM: Display Language requested = en_US
+4/21/2019 1:15:04 PM: New AUM launched for schedule update...
+4/21/2019 1:15:04 PM: Entering normal workflow...
+4/21/2019 1:15:04 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/21/2019 1:15:18 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/21/2019 1:15:18 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/21/2019 1:15:18 PM: Result of GetOpenTransaction: = 3
+4/21/2019 1:15:18 PM: No manual/schedule workflow to process next
+4/21/2019 1:15:18 PM: Quitting loop due to user cancel or SelfUpdateExit, clear out any workflows to process
+4/21/2019 1:15:18 PM: <<< Adobe Updater Log End <<<
+
+
+4/28/2019 5:06:48 PM: >>> Adobe Updater Log Begin >>>
+4/28/2019 5:06:48 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/28/2019 5:06:48 PM: cmdline option: -logLevel = 2
+4/28/2019 5:06:48 PM: Display Language requested = 
+4/28/2019 5:06:48 PM: No Startup mode - likely to be launched manually.
+4/28/2019 5:06:48 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/28/2019 5:06:48 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/28/2019 5:06:48 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/28/2019 5:06:48 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+4/28/2019 5:06:48 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+4/28/2019 5:06:48 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/28/2019 5:06:50 PM: No manual/schedule workflow to process next
+4/28/2019 5:06:50 PM: <<< Adobe Updater Log End <<<
+
+
+4/29/2019 3:36:45 PM: >>> Adobe Updater Log Begin >>>
+4/29/2019 3:36:45 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/29/2019 3:36:45 PM: cmdline option: -logLevel = 2
+4/29/2019 3:36:45 PM: Display Language requested = 
+4/29/2019 3:36:45 PM: No Startup mode - likely to be launched manually.
+4/29/2019 3:36:45 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+4/29/2019 3:36:45 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+4/29/2019 3:36:45 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/29/2019 3:36:45 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+4/29/2019 3:36:45 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+4/29/2019 3:36:45 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+4/29/2019 3:36:47 PM: No manual/schedule workflow to process next
+4/29/2019 3:36:47 PM: <<< Adobe Updater Log End <<<
+
+
+4/29/2019 3:37:52 PM: >>> Adobe Updater Log Begin >>>
+4/29/2019 3:37:52 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+4/29/2019 3:37:52 PM: cmdline option: -logLevel = 2
+4/29/2019 3:37:52 PM: Display Language requested = en_US
+4/29/2019 3:37:52 PM: New AUM launched for schedule update...
+4/29/2019 3:37:52 PM: Entering normal workflow...
+4/29/2019 3:37:52 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+5/10/2019 7:02:13 PM: >>> Adobe Updater Log Begin >>>
+5/10/2019 7:02:13 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+5/10/2019 7:02:13 PM: cmdline option: -logLevel = 2
+5/10/2019 7:02:13 PM: Display Language requested = 
+5/10/2019 7:02:13 PM: No Startup mode - likely to be launched manually.
+5/10/2019 7:02:13 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+5/10/2019 7:02:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+5/10/2019 7:02:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/10/2019 7:02:13 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+5/10/2019 7:02:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+5/10/2019 7:02:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/10/2019 7:02:15 PM: No manual/schedule workflow to process next
+5/10/2019 7:02:15 PM: <<< Adobe Updater Log End <<<
+
+
+5/11/2019 8:21:33 PM: >>> Adobe Updater Log Begin >>>
+5/11/2019 8:21:33 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+5/11/2019 8:21:33 PM: cmdline option: -logLevel = 2
+5/11/2019 8:21:33 PM: Display Language requested = 
+5/11/2019 8:21:33 PM: No Startup mode - likely to be launched manually.
+5/11/2019 8:21:33 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+5/11/2019 8:21:33 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+5/11/2019 8:21:33 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/11/2019 8:21:33 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+5/11/2019 8:21:33 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+5/11/2019 8:21:33 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/11/2019 8:21:35 PM: No manual/schedule workflow to process next
+5/11/2019 8:21:35 PM: <<< Adobe Updater Log End <<<
+
+
+5/11/2019 8:22:40 PM: >>> Adobe Updater Log Begin >>>
+5/11/2019 8:22:40 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+5/11/2019 8:22:40 PM: cmdline option: -logLevel = 2
+5/11/2019 8:22:40 PM: Display Language requested = en_US
+5/11/2019 8:22:40 PM: New AUM launched for schedule update...
+5/11/2019 8:22:40 PM: Entering normal workflow...
+5/11/2019 8:22:40 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+5/22/2019 8:16:22 AM: >>> Adobe Updater Log Begin >>>
+5/22/2019 8:16:22 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+5/22/2019 8:16:22 AM: cmdline option: -logLevel = 2
+5/22/2019 8:16:22 AM: Display Language requested = 
+5/22/2019 8:16:22 AM: No Startup mode - likely to be launched manually.
+5/22/2019 8:16:22 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+5/22/2019 8:16:22 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+5/22/2019 8:16:22 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/22/2019 8:16:22 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+5/22/2019 8:16:22 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+5/22/2019 8:16:22 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+5/22/2019 8:16:24 AM: No manual/schedule workflow to process next
+5/22/2019 8:16:25 AM: <<< Adobe Updater Log End <<<
+
+
+5/22/2019 8:17:30 AM: >>> Adobe Updater Log Begin >>>
+5/22/2019 8:17:30 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+5/22/2019 8:17:30 AM: cmdline option: -logLevel = 2
+5/22/2019 8:17:30 AM: Display Language requested = en_US
+5/22/2019 8:17:30 AM: New AUM launched for schedule update...
+5/22/2019 8:17:30 AM: Entering normal workflow...
+5/22/2019 8:17:30 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/10/2019 3:33:37 PM: >>> Adobe Updater Log Begin >>>
+6/10/2019 3:33:37 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/10/2019 3:33:37 PM: cmdline option: -logLevel = 2
+6/10/2019 3:33:37 PM: Display Language requested = 
+6/10/2019 3:33:37 PM: No Startup mode - likely to be launched manually.
+6/10/2019 3:33:37 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/10/2019 3:33:37 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+6/10/2019 3:33:37 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/10/2019 3:33:37 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+6/10/2019 3:33:37 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+6/10/2019 3:33:37 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/10/2019 3:33:39 PM: No manual/schedule workflow to process next
+6/10/2019 3:33:39 PM: <<< Adobe Updater Log End <<<
+
+
+6/10/2019 3:34:45 PM: >>> Adobe Updater Log Begin >>>
+6/10/2019 3:34:45 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/10/2019 3:34:45 PM: cmdline option: -logLevel = 2
+6/10/2019 3:34:45 PM: Display Language requested = en_US
+6/10/2019 3:34:45 PM: New AUM launched for schedule update...
+6/10/2019 3:34:45 PM: Entering normal workflow...
+6/10/2019 3:34:45 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/20/2019 2:44:49 PM: >>> Adobe Updater Log Begin >>>
+6/20/2019 2:44:49 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/20/2019 2:44:49 PM: cmdline option: -logLevel = 2
+6/20/2019 2:44:49 PM: Display Language requested = 
+6/20/2019 2:44:49 PM: No Startup mode - likely to be launched manually.
+6/20/2019 2:44:49 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/20/2019 2:44:49 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+6/20/2019 2:44:49 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/20/2019 2:44:49 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+6/20/2019 2:44:49 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+6/20/2019 2:44:49 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/20/2019 2:44:51 PM: No manual/schedule workflow to process next
+6/20/2019 2:44:51 PM: <<< Adobe Updater Log End <<<
+
+
+6/20/2019 2:45:56 PM: >>> Adobe Updater Log Begin >>>
+6/20/2019 2:45:56 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/20/2019 2:45:56 PM: cmdline option: -logLevel = 2
+6/20/2019 2:45:56 PM: Display Language requested = en_US
+6/20/2019 2:45:56 PM: New AUM launched for schedule update...
+6/20/2019 2:45:56 PM: Entering normal workflow...
+6/20/2019 2:45:56 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/29/2019 8:53:34 PM: >>> Adobe Updater Log Begin >>>
+6/29/2019 8:53:34 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/29/2019 8:53:34 PM: cmdline option: -logLevel = 2
+6/29/2019 8:53:34 PM: Display Language requested = 
+6/29/2019 8:53:34 PM: No Startup mode - likely to be launched manually.
+6/29/2019 8:53:34 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/29/2019 8:53:34 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+6/29/2019 8:53:34 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 8:53:34 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+6/29/2019 8:53:34 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+6/29/2019 8:53:34 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 8:53:36 PM: No manual/schedule workflow to process next
+6/29/2019 8:53:37 PM: <<< Adobe Updater Log End <<<
+
+
+6/29/2019 9:04:13 PM: >>> Adobe Updater Log Begin >>>
+6/29/2019 9:04:13 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/29/2019 9:04:13 PM: cmdline option: -logLevel = 2
+6/29/2019 9:04:13 PM: Display Language requested = 
+6/29/2019 9:04:13 PM: No Startup mode - likely to be launched manually.
+6/29/2019 9:04:13 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/29/2019 9:04:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+6/29/2019 9:04:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 9:04:13 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+6/29/2019 9:04:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+6/29/2019 9:04:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 9:04:15 PM: No manual/schedule workflow to process next
+6/29/2019 9:04:15 PM: <<< Adobe Updater Log End <<<
+
+
+6/29/2019 9:05:52 PM: >>> Adobe Updater Log Begin >>>
+6/29/2019 9:05:52 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+6/29/2019 9:05:52 PM: cmdline option: -logLevel = 2
+6/29/2019 9:05:52 PM: Display Language requested = 
+6/29/2019 9:05:52 PM: No Startup mode - likely to be launched manually.
+6/29/2019 9:05:52 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+6/29/2019 9:05:52 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+6/29/2019 9:05:52 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 9:05:52 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+6/29/2019 9:05:52 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+6/29/2019 9:05:52 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+6/29/2019 9:05:54 PM: No manual/schedule workflow to process next
+6/29/2019 9:05:54 PM: <<< Adobe Updater Log End <<<
+
+
+7/10/2019 5:55:55 AM: >>> Adobe Updater Log Begin >>>
+7/10/2019 5:55:55 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/10/2019 5:55:55 AM: cmdline option: -logLevel = 2
+7/10/2019 5:55:55 AM: Display Language requested = 
+7/10/2019 5:55:55 AM: No Startup mode - likely to be launched manually.
+7/10/2019 5:55:55 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/10/2019 5:55:55 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/10/2019 5:55:55 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:55:55 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/10/2019 5:55:55 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/10/2019 5:55:55 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:55:57 AM: No manual/schedule workflow to process next
+7/10/2019 5:55:57 AM: <<< Adobe Updater Log End <<<
+
+
+7/10/2019 5:56:21 AM: >>> Adobe Updater Log Begin >>>
+7/10/2019 5:56:21 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/10/2019 5:56:21 AM: cmdline option: -logLevel = 2
+7/10/2019 5:56:21 AM: Display Language requested = 
+7/10/2019 5:56:21 AM: No Startup mode - likely to be launched manually.
+7/10/2019 5:56:21 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/10/2019 5:56:21 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/10/2019 5:56:21 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:56:21 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/10/2019 5:56:21 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/10/2019 5:56:21 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:56:23 AM: No manual/schedule workflow to process next
+7/10/2019 5:56:23 AM: <<< Adobe Updater Log End <<<
+
+
+7/10/2019 5:56:39 AM: >>> Adobe Updater Log Begin >>>
+7/10/2019 5:56:39 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/10/2019 5:56:39 AM: cmdline option: -logLevel = 2
+7/10/2019 5:56:39 AM: Display Language requested = 
+7/10/2019 5:56:39 AM: No Startup mode - likely to be launched manually.
+7/10/2019 5:56:39 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/10/2019 5:56:39 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/10/2019 5:56:39 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:56:39 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/10/2019 5:56:39 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/10/2019 5:56:39 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 5:56:41 AM: No manual/schedule workflow to process next
+7/10/2019 5:56:41 AM: <<< Adobe Updater Log End <<<
+
+
+7/10/2019 5:57:46 AM: >>> Adobe Updater Log Begin >>>
+7/10/2019 5:57:46 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/10/2019 5:57:46 AM: cmdline option: -logLevel = 2
+7/10/2019 5:57:46 AM: Display Language requested = en_US
+7/10/2019 5:57:46 AM: New AUM launched for schedule update...
+7/10/2019 5:57:46 AM: Entering normal workflow...
+7/10/2019 5:57:46 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/10/2019 6:02:50 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/10/2019 6:02:50 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/10/2019 6:02:50 AM: Result of GetOpenTransaction: = 3
+7/10/2019 6:02:50 AM: No manual/schedule workflow to process next
+7/10/2019 6:02:50 AM: Quitting loop due to user cancel or SelfUpdateExit, clear out any workflows to process
+7/10/2019 6:02:50 AM: <<< Adobe Updater Log End <<<
+
+
+7/20/2019 8:13:30 PM: >>> Adobe Updater Log Begin >>>
+7/20/2019 8:13:30 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/20/2019 8:13:30 PM: cmdline option: -logLevel = 2
+7/20/2019 8:13:30 PM: Display Language requested = 
+7/20/2019 8:13:30 PM: No Startup mode - likely to be launched manually.
+7/20/2019 8:13:30 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/20/2019 8:13:30 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/20/2019 8:13:30 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/20/2019 8:13:30 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/20/2019 8:13:30 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/20/2019 8:13:30 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/20/2019 8:13:32 PM: No manual/schedule workflow to process next
+7/20/2019 8:13:32 PM: <<< Adobe Updater Log End <<<
+
+
+7/20/2019 8:14:37 PM: >>> Adobe Updater Log Begin >>>
+7/20/2019 8:14:37 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/20/2019 8:14:37 PM: cmdline option: -logLevel = 2
+7/20/2019 8:14:37 PM: Display Language requested = en_US
+7/20/2019 8:14:37 PM: New AUM launched for schedule update...
+7/20/2019 8:14:37 PM: Entering normal workflow...
+7/20/2019 8:14:37 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/28/2019 1:16:31 PM: >>> Adobe Updater Log Begin >>>
+7/28/2019 1:16:31 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/28/2019 1:16:31 PM: cmdline option: -logLevel = 2
+7/28/2019 1:16:31 PM: Display Language requested = 
+7/28/2019 1:16:31 PM: No Startup mode - likely to be launched manually.
+7/28/2019 1:16:31 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/28/2019 1:16:31 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/28/2019 1:16:31 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/28/2019 1:16:31 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/28/2019 1:16:31 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/28/2019 1:16:31 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/28/2019 1:16:33 PM: No manual/schedule workflow to process next
+7/28/2019 1:16:33 PM: <<< Adobe Updater Log End <<<
+
+
+7/28/2019 1:17:36 PM: >>> Adobe Updater Log Begin >>>
+7/28/2019 1:17:36 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/28/2019 1:17:36 PM: cmdline option: -logLevel = 2
+7/28/2019 1:17:36 PM: Display Language requested = 
+7/28/2019 1:17:36 PM: No Startup mode - likely to be launched manually.
+7/28/2019 1:17:36 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+7/28/2019 1:17:36 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+7/28/2019 1:17:36 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/28/2019 1:17:36 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+7/28/2019 1:17:36 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+7/28/2019 1:17:36 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+7/28/2019 1:17:38 PM: No manual/schedule workflow to process next
+7/28/2019 1:17:38 PM: <<< Adobe Updater Log End <<<
+
+
+7/28/2019 1:18:43 PM: >>> Adobe Updater Log Begin >>>
+7/28/2019 1:18:43 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+7/28/2019 1:18:43 PM: cmdline option: -logLevel = 2
+7/28/2019 1:18:43 PM: Display Language requested = en_US
+7/28/2019 1:18:43 PM: New AUM launched for schedule update...
+7/28/2019 1:18:43 PM: Entering normal workflow...
+7/28/2019 1:18:43 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+8/4/2019 8:09:57 PM: >>> Adobe Updater Log Begin >>>
+8/4/2019 8:09:57 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+8/4/2019 8:09:57 PM: cmdline option: -logLevel = 2
+8/4/2019 8:09:57 PM: Display Language requested = 
+8/4/2019 8:09:57 PM: No Startup mode - likely to be launched manually.
+8/4/2019 8:09:57 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+8/4/2019 8:09:57 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+8/4/2019 8:09:57 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/4/2019 8:09:57 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+8/4/2019 8:09:57 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+8/4/2019 8:09:57 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/4/2019 8:09:59 PM: No manual/schedule workflow to process next
+8/4/2019 8:09:59 PM: <<< Adobe Updater Log End <<<
+
+
+8/4/2019 8:11:04 PM: >>> Adobe Updater Log Begin >>>
+8/4/2019 8:11:04 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+8/4/2019 8:11:04 PM: cmdline option: -logLevel = 2
+8/4/2019 8:11:04 PM: Display Language requested = en_US
+8/4/2019 8:11:04 PM: New AUM launched for schedule update...
+8/4/2019 8:11:04 PM: Entering normal workflow...
+8/4/2019 8:11:04 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+8/13/2019 9:17:13 PM: >>> Adobe Updater Log Begin >>>
+8/13/2019 9:17:13 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+8/13/2019 9:17:13 PM: cmdline option: -logLevel = 2
+8/13/2019 9:17:13 PM: Display Language requested = 
+8/13/2019 9:17:13 PM: No Startup mode - likely to be launched manually.
+8/13/2019 9:17:13 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+8/13/2019 9:17:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+8/13/2019 9:17:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/13/2019 9:17:13 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+8/13/2019 9:17:13 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+8/13/2019 9:17:13 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/13/2019 9:17:15 PM: No manual/schedule workflow to process next
+8/13/2019 9:17:16 PM: <<< Adobe Updater Log End <<<
+
+
+8/14/2019 2:20:45 AM: >>> Adobe Updater Log Begin >>>
+8/14/2019 2:20:45 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+8/14/2019 2:20:45 AM: cmdline option: -logLevel = 2
+8/14/2019 2:20:45 AM: Display Language requested = 
+8/14/2019 2:20:45 AM: No Startup mode - likely to be launched manually.
+8/14/2019 2:20:45 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+8/14/2019 2:20:45 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+8/14/2019 2:20:45 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/14/2019 2:20:45 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+8/14/2019 2:20:45 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+8/14/2019 2:20:45 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+8/14/2019 2:20:47 AM: No manual/schedule workflow to process next
+8/14/2019 2:20:47 AM: <<< Adobe Updater Log End <<<
+
+
+8/14/2019 2:21:52 AM: >>> Adobe Updater Log Begin >>>
+8/14/2019 2:21:52 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+8/14/2019 2:21:52 AM: cmdline option: -logLevel = 2
+8/14/2019 2:21:52 AM: Display Language requested = en_US
+8/14/2019 2:21:52 AM: New AUM launched for schedule update...
+8/14/2019 2:21:52 AM: Entering normal workflow...
+8/14/2019 2:21:52 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+9/1/2019 5:53:44 AM: >>> Adobe Updater Log Begin >>>
+9/1/2019 5:53:44 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+9/1/2019 5:53:44 AM: cmdline option: -logLevel = 2
+9/1/2019 5:53:44 AM: Display Language requested = 
+9/1/2019 5:53:44 AM: No Startup mode - likely to be launched manually.
+9/1/2019 5:53:44 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+9/1/2019 5:53:44 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+9/1/2019 5:53:44 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/1/2019 5:53:44 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+9/1/2019 5:53:44 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+9/1/2019 5:53:44 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/1/2019 5:53:46 AM: No manual/schedule workflow to process next
+9/1/2019 5:53:46 AM: <<< Adobe Updater Log End <<<
+
+
+9/10/2019 8:56:02 AM: >>> Adobe Updater Log Begin >>>
+9/10/2019 8:56:02 AM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+9/10/2019 8:56:02 AM: cmdline option: -logLevel = 2
+9/10/2019 8:56:02 AM: Display Language requested = 
+9/10/2019 8:56:02 AM: No Startup mode - likely to be launched manually.
+9/10/2019 8:56:02 AM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+9/10/2019 8:56:02 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+9/10/2019 8:56:02 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/10/2019 8:56:02 AM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+9/10/2019 8:56:02 AM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+9/10/2019 8:56:02 AM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/10/2019 8:56:04 AM: No manual/schedule workflow to process next
+9/10/2019 8:56:04 AM: <<< Adobe Updater Log End <<<
+
+
+9/18/2019 2:31:35 PM: >>> Adobe Updater Log Begin >>>
+9/18/2019 2:31:35 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+9/18/2019 2:31:35 PM: cmdline option: -logLevel = 2
+9/18/2019 2:31:35 PM: Display Language requested = 
+9/18/2019 2:31:35 PM: No Startup mode - likely to be launched manually.
+9/18/2019 2:31:35 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+9/18/2019 2:31:35 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+9/18/2019 2:31:35 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/18/2019 2:31:35 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+9/18/2019 2:31:35 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+9/18/2019 2:31:35 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+9/18/2019 2:31:37 PM: No manual/schedule workflow to process next
+9/18/2019 2:31:37 PM: <<< Adobe Updater Log End <<<
+
+
+9/18/2019 2:32:42 PM: >>> Adobe Updater Log Begin >>>
+9/18/2019 2:32:42 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+9/18/2019 2:32:42 PM: cmdline option: -logLevel = 2
+9/18/2019 2:32:42 PM: Display Language requested = en_US
+9/18/2019 2:32:42 PM: New AUM launched for schedule update...
+9/18/2019 2:32:42 PM: Entering normal workflow...
+9/18/2019 2:32:42 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/3/2019 3:17:33 PM: >>> Adobe Updater Log Begin >>>
+10/3/2019 3:17:33 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+10/3/2019 3:17:33 PM: cmdline option: -logLevel = 2
+10/3/2019 3:17:33 PM: Display Language requested = 
+10/3/2019 3:17:33 PM: No Startup mode - likely to be launched manually.
+10/3/2019 3:17:33 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/3/2019 3:17:33 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+10/3/2019 3:17:33 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/3/2019 3:17:33 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+10/3/2019 3:17:33 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+10/3/2019 3:17:33 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/3/2019 3:17:35 PM: No manual/schedule workflow to process next
+10/3/2019 3:17:35 PM: <<< Adobe Updater Log End <<<
+
+
+10/3/2019 3:18:40 PM: >>> Adobe Updater Log Begin >>>
+10/3/2019 3:18:40 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+10/3/2019 3:18:40 PM: cmdline option: -logLevel = 2
+10/3/2019 3:18:40 PM: Display Language requested = en_US
+10/3/2019 3:18:40 PM: New AUM launched for schedule update...
+10/3/2019 3:18:40 PM: Entering normal workflow...
+10/3/2019 3:18:40 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/17/2019 2:48:27 PM: >>> Adobe Updater Log Begin >>>
+10/17/2019 2:48:27 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+10/17/2019 2:48:27 PM: cmdline option: -logLevel = 2
+10/17/2019 2:48:27 PM: Display Language requested = 
+10/17/2019 2:48:27 PM: No Startup mode - likely to be launched manually.
+10/17/2019 2:48:27 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/17/2019 2:48:27 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+10/17/2019 2:48:27 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/17/2019 2:48:27 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+10/17/2019 2:48:27 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+10/17/2019 2:48:27 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/17/2019 2:48:29 PM: No manual/schedule workflow to process next
+10/17/2019 2:48:29 PM: <<< Adobe Updater Log End <<<
+
+
+10/17/2019 2:49:34 PM: >>> Adobe Updater Log Begin >>>
+10/17/2019 2:49:34 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+10/17/2019 2:49:34 PM: cmdline option: -logLevel = 2
+10/17/2019 2:49:34 PM: Display Language requested = en_US
+10/17/2019 2:49:34 PM: New AUM launched for schedule update...
+10/17/2019 2:49:34 PM: Entering normal workflow...
+10/17/2019 2:49:34 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/29/2019 3:46:27 PM: >>> Adobe Updater Log Begin >>>
+10/29/2019 3:46:27 PM: cmdline option: -logFile = C:\Users\use\AppData\Local\Adobe\Updater5\aum.log
+10/29/2019 3:46:27 PM: cmdline option: -logLevel = 2
+10/29/2019 3:46:27 PM: Display Language requested = 
+10/29/2019 3:46:27 PM: No Startup mode - likely to be launched manually.
+10/29/2019 3:46:27 PM: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+10/29/2019 3:46:27 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/AdobeUpdater.upd
+10/29/2019 3:46:27 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/29/2019 3:46:27 PM: GetAppIDUpdates: getting available update info for AppID: reader8rdr-en_US
+10/29/2019 3:46:27 PM: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/50/win/reader8rdr-en_US.upd
+10/29/2019 3:46:27 PM: GetAppIDUpdates: GeManifestProcessingError = 2
+10/29/2019 3:46:29 PM: No manual/schedule workflow to process next
+10/29/2019 3:46:29 PM: <<< Adobe Updater Log End <<<
+
+
